@@ -1,0 +1,22 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+}
+
+.search-box {
+    padding: 0px;
+    width: 80%;
+}
+
+.search-form {
+    display: flex;
+    justify-content: space-around;
+}
+
+.term-search {
+    width: 25%;
+}
+
+.definition-search {
+    width: 70%;
+}
