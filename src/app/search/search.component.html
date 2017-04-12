@@ -10,3 +10,8 @@
         </form>
     </md-card>
 </div>
+<md-list>
+    <md-list-item *ngFor="let result of results">
+        <app-result [result]="result"></app-result>
+    </md-list-item>
+</md-list>

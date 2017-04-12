@@ -1,0 +1,12 @@
+.result-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.results-header {
+    width: 25%;
+}
+
+.results-content {
+    width: 70%;
+}
